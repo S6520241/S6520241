@@ -4,10 +4,6 @@ I'm an Italian Computer Science undergraduate student at Università degli Studi
 
 Currently, I'm sharpening my skills in modern C++, software architectural patterns, database design, and embedded systems, always striving to write clean, efficient, and well-structured code.
 
-🌐 **Socials:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuo-profilo)
-
 💻 **Tech Stack:**
 
 <p align="left">
