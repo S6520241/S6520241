@@ -1,6 +1,6 @@
 # Hi, I'm Francesco 👋
 
-I'm an Italian Computer Science undergraduate student at Università degli Studi di Genova (UniGe), passionate about software development and driven by curiosity for new technologies. I love exploring everything from low-level systems and game development in C++ to robust backend architectures in Java and full-stack web applications.
+I'm an Italian Computer Science undergraduate student at University of Genoa (UniGe), passionate about software development and driven by curiosity for new technologies. I love exploring everything from low-level systems and game development in C++ to robust backend architectures in Java and full-stack web applications.
 
 Currently, I'm sharpening my skills in modern C++, software architectural patterns, database design, and embedded systems, always striving to write clean, efficient, and well-structured code.
 
