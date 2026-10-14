@@ -5,7 +5,7 @@ I'm an Italian Computer Science undergraduate student at University of Genoa (Un
 Currently, I'm sharpening my skills in modern C++, software architectural patterns, database design, and embedded systems, always striving to write clean, efficient, and well-structured code.
 
 📫 **Let's connect:**<br>
-<a href="https://www.linkedin.com/in/francesco-giuseppino-b0b396428/">
+<a href="https://www.linkedin.com/in/francesco-giuseppino/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
